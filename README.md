@@ -8,10 +8,20 @@ I am a student studying at [Imperial College London](https://www.imperial.ac.uk/
 
 ### **About Me**
 
-- 🌐 **Personal Website:** [hah3024.github.io](https://hah3024.github.io/?utm_source=github)  
-- 📄 **Curriculum Vitae:** [here](https://hah3024.github.io/pages/cv.html)  
-- 📝 **$\LaTeX{}$ Template for Assignments:** [here](https://github.com/hah3024/your-repo/blob/main/your-template.tex)
 
+### **About Me**
+
+#### **My Interests**
+I love traveling and exploring new places! Here are some of my favorite things:
+- 🌍 Traveling to beautiful destinations.
+- 📚 Reading books on technology and philosophy.
+- 🎮 Playing video games in my free time.
+- 🍳 Cooking and trying out new recipes.
+
+#### **My Skills**
+- Programming: Python, MATLAB, C++
+- Data Analysis: Pandas, NumPy, Matplotlib
+- Tools: Git, LaTeX, Linux
 ---
 
 ### **Connect with Me**
