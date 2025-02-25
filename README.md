@@ -8,25 +8,26 @@ I am a student studying at [Imperial College London](https://www.imperial.ac.uk/
 
 ### **About Me**
 
-
-### **About Me**
-
-#### **My Interests**
+#### **My Interests** 🌟
 I love traveling and exploring new places! Here are some of my favorite things:
-- 🌍 Traveling to beautiful destinations.
-- 📚 Reading books on technology and philosophy.
-- 🎮 Playing video games in my free time.
-- 🍳 Cooking and trying out new recipes.
 
-#### **My Skills**
-- Programming: Python, MATLAB, C++
-- Data Analysis: Pandas, NumPy, Matplotlib
-- Tools: Git, LaTeX, Linux
+- 🌍 **Traveling**: Exploring beautiful destinations around the world.
+- 📚 **Reading**: Books on technology, philosophy, and science fiction.
+- 🎮 **Gaming**: Playing video games in my free time.
+- 🍳 **Cooking**: Trying out new recipes and experimenting with flavors.
+
+#### **My Skills** 💻
+Here are some of the skills I've developed:
+
+- **Programming**: 🐍 Python, 📊 MATLAB, ➕ C++
+- **Data Analysis**: 🐼 Pandas, 🔢 NumPy, 📈 Matplotlib
+- **Tools**: 🛠️ Git, 📜 LaTeX, 🐧 Linux
+
 ---
 
 ### **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/-Your%20Name-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile/)](https://www.linkedin.com/in/your-linkedin-profile/)  
+[![LinkedIn](https://img.shields.io/badge/-Jiaqiang%20Jing-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiaqiang-jing-a28340307/)](https://www.linkedin.com/in/jiaqiang-jing-a28340307/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hah3024)](https://github.com/hah3024)
 
 </div>
