@@ -12,6 +12,13 @@ I am a student studying at [Imperial College London](https://www.imperial.ac.uk/
 - 📄 **Curriculum Vitae:** [here](https://hah3024.github.io/pages/cv.html)  
 - 📝 **$\LaTeX{}$ Template for Assignments:** [here](https://github.com/hah3024/your-repo/blob/main/your-template.tex)
 
+#### **My Interests**
+I love traveling and exploring new places! Here are some of my favorite travel moments:
+
+| ![Travel Photo 1](https://via.placeholder.com/300x200?text=Travel+Photo+1) | ![Travel Photo 2](https://via.placeholder.com/300x200?text=Travel+Photo+2) | ![Travel Photo 3](https://via.placeholder.com/300x200?text=Travel+Photo+3) |
+|:---:|:---:|:---:|
+| A beautiful mountain view | A serene beach sunset | A bustling cityscape |
+
 ---
 
 ### **Connect with Me**
