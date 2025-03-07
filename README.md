@@ -27,7 +27,7 @@ Here are some of the skills I've developed:
 
 ### **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiaqiang-jing-a28340307/)]([https://www.linkedin.com/in/jiaqiang-jing-a28340307/](https://www.linkedin.com/in/jiaqiang-cason-jing-a28340307))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiaqiang-jing-a28340307/)](https://www.linkedin.com/in/jiaqiang-cason-jing-a28340307))  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hah3024)](https://github.com/hah3024)
 
 </div>
