@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hello! 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Cason's+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+%F0%9F%91%8BThis+is+Cason's+Profile!)](https://git.io/typing-svg)
 
 I am a student studying at [Imperial College London](https://www.imperial.ac.uk/), pursuing a degree in [MSc Control and Optimisation](https://intranet.ee.ic.ac.uk/electricalengineering/eecourses_t4/crslistpg.asp?c=C1).
 
